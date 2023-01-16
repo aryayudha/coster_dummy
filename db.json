@@ -19,26 +19,5 @@
         "name": "Wideka",
         "online_status": true
       }
-    },
-    {
-      "ticket_id": "00002",
-      "ticket_number": "100010002",
-      "customer_name": "Arya Mahendra",
-      "message_title": "Token tidak sesuai",
-      "ticket_priority": 3,
-      "ticket_status": 1,
-      "ticket_source": 3,
-      "handle_by": {
-        "user_id": "CS002",
-        "role": "CS",
-        "name": "Lutfy",
-        "online_status": true
-      },
-      "escalation_to": {
-        "user_id": "Dev007",
-        "role": "DEV",
-        "name": "Wideka",
-        "online_status": true
-      }
     }
   ]
