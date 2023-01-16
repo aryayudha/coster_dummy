@@ -1,4 +1,5 @@
-"ticket": [
+{
+    "ticket": [
     {
       "ticket_id": "00001",
       "ticket_number": "100010001",
@@ -21,3 +22,4 @@
       }
     }
   ]
+}
